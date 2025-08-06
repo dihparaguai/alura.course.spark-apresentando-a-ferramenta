@@ -1,3 +1,7 @@
+_SUCCESS
+*.orc
+*.crc
+*.parquet
 *.zip
 *.csv
 .venv/*
